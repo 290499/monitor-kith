@@ -20,7 +20,8 @@ const request = require('request').defaults({
 
 var og
 
-var added = []
+var 
+added = []
 var removed = []
 var matches = []
 
@@ -400,7 +401,7 @@ function twitterNotification(parsedResult, type) {
             var price = res.price
 
             if (type === 'new') {
-                var altText = `Added:\n${name}\n${price}\nStock Count: ${stock}\n${url}`
+                var altText = `\n${name}\n${price}\nStock Count: ${stock}\n${url}`
             }
 
             if (configuration.twitter.encodeImages) {
@@ -476,7 +477,7 @@ function twitterNotification(parsedResult, type) {
 }
 
 // twitterNotification({
-//   image: 'https://cdn.shopify.com/s/files/1/0094/2252/products/Adidas_Superstar_Foundation_FtwWhtCBurgGoldMt_BY3713_7722-1.progressive.jpg',
+//   image: 'http://images.google.fr/imgres?imgurl=http://s3-eu-west-1.amazonaws.com/oklm-2016-prod/wp-content/uploads/2016/05/Kalash-Criminel.jpg&imgrefurl=http://www.oklm.com/video_tag/kalash-criminel/&h=400&w=600&tbnid=xJYX_xhxfFa2TM:&vet=1&tbnh=122&tbnw=183&docid=iomgSiZUH_QSYM&usg=__rC_CxBIdOK8OL3Afj_ycLjvSZ4c=&sa=X&ved=0ahUKEwjPxZimnd7RAhUHCBoKHXceAaEQ9QEIJDAE',
 //   link: 'https://kith.com/products/adidas-originals-superstar-burgundy',
-//   name: 'ADIDAS ORIGINALS SUPERSTAR'
+//   name: 'Piraterie 92I'
 // }, 'new')

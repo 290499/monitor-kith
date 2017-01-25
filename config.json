@@ -1,5 +1,5 @@
 {
-    "interval": 60000,
+    "interval": 1000,
     "serverPort": 1337,
     "autoRetryOnCrash": true,
     "notifyWhenNewItemsFound": true,
@@ -23,8 +23,10 @@
         "access_token_secret": "access token secret here"
     },
     "sites": [
-        "https://shop-usa.palaceskateboards.com/sitemap_products_1.xml",
-        "http://kithnyc.com/sitemap_products_1.xml"
+        "https://www.notre-shop.com/sitemap_products_1.xml",
+        "https://www.bowsandarrowsberkeley.com/sitemap_products_1.xml",
+        "https://www.ssense.com/sitemap_products_1.xml",
+        "https://properlbc.com/sitemap_products_1.xml"
     ],
     "keywords": [
         "nmd",

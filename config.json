@@ -1,6 +1,6 @@
 {
-    "interval": 1000,
-    "serverPort": 1338,
+    "interval": 500,
+    "serverPort": 1336,
     "autoRetryOnCrash": true,
     "notifyWhenNewItemsFound": true,
     "notifyWhenOnKeywordMatch": true,
@@ -23,9 +23,10 @@
         "access_token_secret": "N873aZxL2gJDyhdIjsosgM2aQOBnKTJ2HTtiRQCJ28EAP"
     },
     "sites": [
-    "http://cncpts.com/sitemap_products_1.xml",
-    "http://shop.bdgastore.com/sitemap_products_1.xml",
-    "http://oneness287.com/sitemap_products_1.xml"
+        "http://kithnyc.com/sitemap_products_1.xml",
+        "http://www.xhibition.co/sitemap_products_1.xml",
+        "http://rise45.com/sitemap_products_1.xml",
+        "http://sneakerpolitics.com/sitemap_products_1.xml"
     ],
     "keywords": [
         "nmd",

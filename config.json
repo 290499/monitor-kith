@@ -1,6 +1,6 @@
 {
     "interval": 1000,
-    "serverPort": 1337,
+    "serverPort": 1338,
     "autoRetryOnCrash": true,
     "notifyWhenNewItemsFound": true,
     "notifyWhenOnKeywordMatch": true,

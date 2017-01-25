@@ -15,12 +15,12 @@
         }
     },
     "twitter": {
-        "active": false,
+        "active": true,
         "encodeImages": false,
-        "consumer_key": "consumer key goes here",
-        "consumer_secret": "consumer secret goes here",
-        "access_token": "access token over here",
-        "access_token_secret": "access token secret here"
+        "consumer_key": "0ghGZdFM1R7cJoIGhYhjOcRBp",
+        "consumer_secret": "aq2y1qjDeAIylGFPoTi4PbaQAs2A8URJnKsX7jA4mwZHXTBAuH",
+        "access_token": "816403060213907460-suussADq123poykDB1imTaldqS4rT4m",
+        "access_token_secret": "N873aZxL2gJDyhdIjsosgM2aQOBnKTJ2HTtiRQCJ28EAP"
     },
     "sites": [
         "https://www.notre-shop.com/sitemap_products_1.xml",
@@ -37,7 +37,6 @@
         "ub-mid",
         "air-jordan",
         "jordan-retro",
-        "ralph lauren",
         "air force"
     ]
 }

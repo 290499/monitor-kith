@@ -23,10 +23,9 @@
         "access_token_secret": "N873aZxL2gJDyhdIjsosgM2aQOBnKTJ2HTtiRQCJ28EAP"
     },
     "sites": [
-        "https://www.notre-shop.com/sitemap_products_1.xml",
-        "https://www.bowsandarrowsberkeley.com/sitemap_products_1.xml",
-        "https://www.ssense.com/sitemap_products_1.xml",
-        "https://properlbc.com/sitemap_products_1.xml"
+    "http://cncpts.com/sitemap_products_1.xml",
+    "http://shop.bdgastore.com/sitemap_products_1.xml",
+    "http://oneness287.com/sitemap_products_1.xml"
     ],
     "keywords": [
         "nmd",

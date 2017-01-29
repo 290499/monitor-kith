@@ -1,5 +1,5 @@
 {
-    "interval": 500,
+    "interval": 1000,
     "serverPort": 1338,
     "autoRetryOnCrash": true,
     "notifyWhenNewItemsFound": true,
